@@ -1,31 +1,42 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: misskey-gg # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Misskey.gg Main
+    url: https://misskey.gg
+  - name: Misskey.gg S3
+    url: https://sss.misskey.gg/sss/
+    expectedStatusCodes:
+      - 403
+  - name: Misskey.gg Media Proxy
+    url: https://p.misskey.gg/image.webp?url=https%3A%2F%2Fwww.google.com%2Fimages%2Fbranding%2Fgooglelogo%2F2x%2Fgooglelogo_light_color_272x92dp.png
+  - name: Misskey.gg POST test
+    url: https://misskey.gg/api/get-online-users-count
+    method: POST
+    headers:
+    - "Content-Type: application/json"
+    body: '{}'
+  - name: Misskey.gg PING test
+    check: "tcp-ping"
+    url: misskey.gg
+    port: 443
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.misskey.gg
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  favicon: https://sss.misskey.gg/sss/gg/75346d60-1572-4e33-b88d-93ffabe19d57.png
+  logoUrl: https://sss.misskey.gg/sss/gg/8e7c63c1-155b-496d-bbff-e83a6f0fd454.png
+  name: Misskey.gg Uptime
+  introTitle: "**misskey.gg** is the one of instance uses open source software misskey."
+  introMessage: Misskey.gg Uptime
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: misskey.gg
+      href: https://misskey.gg
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

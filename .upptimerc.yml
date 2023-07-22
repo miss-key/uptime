@@ -37,6 +37,8 @@ status-website:
       href: /
     - title: misskey.gg
       href: https://misskey.gg
+    - title: tos
+      href: https://tos.misskey.gg
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

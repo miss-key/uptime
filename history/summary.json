@@ -40,18 +40,20 @@
     "url": "https://p.misskey.gg/image.webp?url=https%3A%2F%2Fwww.google.com%2Fimages%2Fbranding%2Fgooglelogo%2F2x%2Fgooglelogo_light_color_272x92dp.png",
     "icon": "https://icons.duckduckgo.com/ip3/p.misskey.gg.ico",
     "slug": "misskey-gg-media-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 703,
-    "timeDay": 747,
-    "timeWeek": 703,
-    "timeMonth": 703,
-    "timeYear": 703,
-    "dailyMinutesDown": {}
+    "time": 667,
+    "timeDay": 637,
+    "timeWeek": 667,
+    "timeMonth": 667,
+    "timeYear": 667,
+    "dailyMinutesDown": {
+      "2023-07-25": 0
+    }
   },
   {
     "name": "Misskey.gg POST test",

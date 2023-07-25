@@ -40,19 +40,19 @@
     "url": "https://p.misskey.gg/image.webp?url=https%3A%2F%2Fwww.google.com%2Fimages%2Fbranding%2Fgooglelogo%2F2x%2Fgooglelogo_light_color_272x92dp.png",
     "icon": "https://icons.duckduckgo.com/ip3/p.misskey.gg.ico",
     "slug": "misskey-gg-media-proxy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 667,
-    "timeDay": 637,
-    "timeWeek": 667,
-    "timeMonth": 667,
-    "timeYear": 667,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 687,
+    "timeDay": 685,
+    "timeWeek": 687,
+    "timeMonth": 687,
+    "timeYear": 687,
     "dailyMinutesDown": {
-      "2023-07-25": 0
+      "2023-07-25": 6
     }
   },
   {

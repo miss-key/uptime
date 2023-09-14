@@ -4,10 +4,10 @@
     "url": "https://misskey.gg",
     "icon": "https://icons.duckduckgo.com/ip3/misskey.gg.ico",
     "slug": "misskey-gg-main",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 611,
@@ -15,17 +15,19 @@
     "timeWeek": 609,
     "timeMonth": 636,
     "timeYear": 611,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-14": 2
+    }
   },
   {
     "name": "Misskey.gg S3",
     "url": "https://sss.misskey.gg/sss/",
     "icon": "https://icons.duckduckgo.com/ip3/sss.misskey.gg.ico",
     "slug": "misskey-gg-s3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 493,
@@ -33,17 +35,19 @@
     "timeWeek": 440,
     "timeMonth": 489,
     "timeYear": 493,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-14": 2
+    }
   },
   {
     "name": "Misskey.gg Media Proxy",
     "url": "https://p.misskey.gg/image.webp?url=https%3A%2F%2Fwww.google.com%2Fimages%2Fbranding%2Fgooglelogo%2F2x%2Fgooglelogo_light_color_272x92dp.png",
     "icon": "https://icons.duckduckgo.com/ip3/p.misskey.gg.ico",
     "slug": "misskey-gg-media-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 640,
@@ -51,17 +55,19 @@
     "timeWeek": 595,
     "timeMonth": 645,
     "timeYear": 640,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-14": 1
+    }
   },
   {
     "name": "Misskey.gg POST test",
     "url": "https://misskey.gg/api/get-online-users-count",
     "icon": "https://icons.duckduckgo.com/ip3/misskey.gg.ico",
     "slug": "misskey-gg-post-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 224,
@@ -70,6 +76,7 @@
     "timeMonth": 256,
     "timeYear": 224,
     "dailyMinutesDown": {
+      "2023-09-14": 1,
       "2023-08-06": 24
     }
   },

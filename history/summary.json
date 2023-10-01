@@ -4,18 +4,20 @@
     "url": "https://misskey.gg",
     "icon": "https://icons.duckduckgo.com/ip3/misskey.gg.ico",
     "slug": "misskey-gg-main",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 608,
-    "timeDay": 542,
-    "timeWeek": 620,
+    "timeDay": 533,
+    "timeWeek": 617,
     "timeMonth": 600,
     "timeYear": 608,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-01": 0
+    }
   },
   {
     "name": "Misskey.gg S3",
@@ -68,7 +70,7 @@
     "uptimeYear": "99.98%",
     "time": 197,
     "timeDay": 113,
-    "timeWeek": 135,
+    "timeWeek": 134,
     "timeMonth": 140,
     "timeYear": 197,
     "dailyMinutesDown": {

@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/misskey.gg.ico",
     "slug": "misskey-gg-main",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 609,
-    "timeDay": 587,
-    "timeWeek": 623,
-    "timeMonth": 602,
-    "timeYear": 609,
-    "dailyMinutesDown": {
-      "2023-10-01": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 607,
+    "timeDay": 575,
+    "timeWeek": 616,
+    "timeMonth": 596,
+    "timeYear": 607,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Misskey.gg S3",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 484,
-    "timeDay": 405,
-    "timeWeek": 487,
-    "timeMonth": 457,
-    "timeYear": 484,
+    "time": 482,
+    "timeDay": 343,
+    "timeWeek": 472,
+    "timeMonth": 450,
+    "timeYear": 482,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 657,
-    "timeDay": 507,
-    "timeWeek": 564,
-    "timeMonth": 663,
-    "timeYear": 657,
+    "time": 654,
+    "timeDay": 449,
+    "timeWeek": 545,
+    "timeMonth": 656,
+    "timeYear": 654,
     "dailyMinutesDown": {
       "2023-09-14": 16
     }
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 197,
-    "timeDay": 113,
-    "timeWeek": 134,
-    "timeMonth": 140,
-    "timeYear": 197,
+    "time": 196,
+    "timeDay": 115,
+    "timeWeek": 133,
+    "timeMonth": 139,
+    "timeYear": 196,
     "dailyMinutesDown": {
       "2023-08-06": 24
     }
@@ -88,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 132,
-    "timeDay": 111,
-    "timeWeek": 127,
-    "timeMonth": 128,
-    "timeYear": 132,
+    "time": 131,
+    "timeDay": 110,
+    "timeWeek": 124,
+    "timeMonth": 127,
+    "timeYear": 131,
     "dailyMinutesDown": {}
   }
 ]

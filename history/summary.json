@@ -4,28 +4,30 @@
     "url": "https://misskey.gg",
     "icon": "https://icons.duckduckgo.com/ip3/misskey.gg.ico",
     "slug": "misskey-gg-main",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 611,
     "timeDay": 508,
     "timeWeek": 641,
     "timeMonth": 606,
     "timeYear": 611,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-08": 2
+    }
   },
   {
     "name": "Misskey.gg S3",
     "url": "https://sss.misskey.gg/sss/",
     "icon": "https://icons.duckduckgo.com/ip3/sss.misskey.gg.ico",
     "slug": "misskey-gg-s3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 485,
@@ -33,25 +35,28 @@
     "timeWeek": 498,
     "timeMonth": 464,
     "timeYear": 485,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-08": 2
+    }
   },
   {
     "name": "Misskey.gg Media Proxy",
     "url": "https://p.misskey.gg/image.webp?url=https%3A%2F%2Fwww.google.com%2Fimages%2Fbranding%2Fgooglelogo%2F2x%2Fgooglelogo_light_color_272x92dp.png",
     "icon": "https://icons.duckduckgo.com/ip3/p.misskey.gg.ico",
     "slug": "misskey-gg-media-proxy",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 654,
     "timeDay": 593,
     "timeWeek": 625,
     "timeMonth": 672,
     "timeYear": 654,
     "dailyMinutesDown": {
+      "2023-10-08": 2,
       "2023-09-14": 16
     }
   },
@@ -61,18 +66,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/misskey.gg.ico",
     "slug": "misskey-gg-post-test",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 192,
     "timeDay": 114,
     "timeWeek": 141,
     "timeMonth": 141,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2023-10-08": 0,
+      "2023-10-08": 8,
       "2023-08-06": 24
     }
   },
@@ -81,9 +86,9 @@
     "url": "misskey.gg",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "misskey-gg-ping-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -92,6 +97,8 @@
     "timeWeek": 142,
     "timeMonth": 131,
     "timeYear": 132,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-08": 0
+    }
   }
 ]

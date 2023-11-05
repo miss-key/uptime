@@ -4,9 +4,9 @@
     "url": "https://misskey.gg",
     "icon": "https://icons.duckduckgo.com/ip3/misskey.gg.ico",
     "slug": "misskey-gg-main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 621,
     "timeYear": 612,
     "dailyMinutesDown": {
+      "2023-11-05": 0,
       "2023-10-08": 39
     }
   },

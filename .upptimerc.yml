@@ -21,6 +21,8 @@ sites:
     check: "tcp-ping"
     url: misskey.gg
     port: 443
+  - name: relay.misskey.gg
+    url: https://relay.misskey.gg/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

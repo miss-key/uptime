@@ -150,18 +150,19 @@
     "url": "https://relay.misskey.gg/",
     "icon": "https://icons.duckduckgo.com/ip3/relay.misskey.gg.ico",
     "slug": "relay-misskey-gg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 595,
-    "timeDay": 434,
-    "timeWeek": 560,
-    "timeMonth": 569,
-    "timeYear": 595,
+    "time": 590,
+    "timeDay": 276,
+    "timeWeek": 505,
+    "timeMonth": 554,
+    "timeYear": 590,
     "dailyMinutesDown": {
+      "2024-03-19": 0,
       "2024-02-01": 51
     }
   }

@@ -1,7 +1,7 @@
 url: https://misskey.gg
-status: up
-code: 200
-responseTime: 658
-lastUpdated: 2024-05-01T23:16:41.184Z
+status: down
+code: 503
+responseTime: 544
+lastUpdated: 2024-05-02T19:58:02.020Z
 startTime: 2023-07-22T09:58:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>

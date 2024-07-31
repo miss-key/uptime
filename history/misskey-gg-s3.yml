@@ -1,7 +1,7 @@
 url: https://sss.misskey.gg/sss/
-status: up
-code: 403
-responseTime: 690
-lastUpdated: 2024-07-31T09:34:26.655Z
+status: down
+code: 502
+responseTime: 800
+lastUpdated: 2024-07-31T16:31:31.841Z
 startTime: 2023-07-22T09:58:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>

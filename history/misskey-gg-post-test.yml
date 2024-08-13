@@ -1,7 +1,7 @@
 url: https://misskey.gg/api/get-online-users-count
-status: up
-code: 200
-responseTime: 342
-lastUpdated: 2024-08-12T23:18:45.741Z
+status: down
+code: 405
+responseTime: 777
+lastUpdated: 2024-08-13T04:11:53.753Z
 startTime: 2023-07-22T09:58:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: https://relay.misskey.gg/
-status: down
-code: 500
-responseTime: 80
-lastUpdated: 2025-11-18T11:43:53.191Z
+status: up
+code: 200
+responseTime: 1345
+lastUpdated: 2025-11-18T12:21:27.333Z
 startTime: 2023-12-11T15:32:58.916Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -11,9 +11,9 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.43%",
     "time": 1000,
-    "timeDay": 580,
-    "timeWeek": 539,
-    "timeMonth": 625,
+    "timeDay": 550,
+    "timeWeek": 542,
+    "timeMonth": 619,
     "timeYear": 1080,
     "dailyMinutesDown": {
       "2026-04-30": 88,
@@ -36,8 +36,7 @@
       "2025-06-30": 152,
       "2025-05-18": 127,
       "2025-05-15": 98,
-      "2025-05-13": 83,
-      "2025-05-11": 63
+      "2025-05-13": 83
     }
   },
   {
@@ -52,10 +51,10 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.61%",
     "time": 934,
-    "timeDay": 290,
-    "timeWeek": 309,
-    "timeMonth": 462,
-    "timeYear": 977,
+    "timeDay": 264,
+    "timeWeek": 301,
+    "timeMonth": 445,
+    "timeYear": 976,
     "dailyMinutesDown": {
       "2026-04-23": 93,
       "2026-03-20": 49,
@@ -81,11 +80,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "83.48%",
-    "time": 609,
-    "timeDay": 53,
-    "timeWeek": 143,
-    "timeMonth": 326,
-    "timeYear": 575,
+    "time": 608,
+    "timeDay": 40,
+    "timeWeek": 127,
+    "timeMonth": 303,
+    "timeYear": 573,
     "dailyMinutesDown": {
       "2025-09-02": 49,
       "2025-09-01": 407,
@@ -164,10 +163,10 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.33%",
     "time": 438,
-    "timeDay": 569,
-    "timeWeek": 358,
-    "timeMonth": 223,
-    "timeYear": 483,
+    "timeDay": 524,
+    "timeWeek": 413,
+    "timeMonth": 234,
+    "timeYear": 484,
     "dailyMinutesDown": {
       "2026-04-30": 87,
       "2026-03-20": 49,
@@ -192,8 +191,7 @@
       "2025-05-18": 224,
       "2025-05-15": 120,
       "2025-05-14": 148,
-      "2025-05-13": 16,
-      "2025-05-11": 59
+      "2025-05-13": 16
     }
   },
   {
@@ -207,11 +205,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 126,
+    "time": 125,
     "timeDay": 2,
-    "timeWeek": 8,
-    "timeMonth": 52,
-    "timeYear": 118,
+    "timeWeek": 7,
+    "timeMonth": 46,
+    "timeYear": 117,
     "dailyMinutesDown": {
       "2025-09-02": 37
     }
@@ -222,16 +220,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.misskey.gg.ico",
     "slug": "relay-misskey-gg",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 1194,
-    "timeDay": 959,
-    "timeWeek": 893,
-    "timeMonth": 1172,
-    "timeYear": 1272,
+    "time": 1195,
+    "timeDay": 964,
+    "timeWeek": 911,
+    "timeMonth": 1161,
+    "timeYear": 1273,
     "dailyMinutesDown": {
       "2026-03-20": 49,
       "2026-02-07": 33,

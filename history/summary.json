@@ -11,12 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
     "time": 1014,
-    "timeDay": 668,
-    "timeWeek": 551,
-    "timeMonth": 532,
+    "timeDay": 559,
+    "timeWeek": 544,
+    "timeMonth": 527,
     "timeYear": 754,
     "dailyMinutesDown": {
-      "2025-09-02": 50,
       "2025-09-03": 35,
       "2025-09-27": 19,
       "2025-10-22": 96,
@@ -44,12 +43,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
     "time": 829,
-    "timeDay": 336,
-    "timeWeek": 348,
-    "timeMonth": 325,
-    "timeYear": 662,
+    "timeDay": 290,
+    "timeWeek": 351,
+    "timeMonth": 319,
+    "timeYear": 661,
     "dailyMinutesDown": {
-      "2025-09-02": 49,
       "2025-10-22": 95,
       "2025-11-03": 43,
       "2025-11-02": 427,
@@ -70,15 +68,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
-    "time": 480,
-    "timeDay": 138,
+    "uptimeYear": "99.99%",
+    "time": 478,
+    "timeDay": 47,
     "timeWeek": 93,
     "timeMonth": 108,
-    "timeYear": 485,
-    "dailyMinutesDown": {
-      "2025-09-02": 49
-    }
+    "timeYear": 483,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Misskey.gg POST test",
@@ -92,12 +88,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 511,
-    "timeDay": 643,
-    "timeWeek": 466,
+    "timeDay": 219,
+    "timeWeek": 411,
     "timeMonth": 429,
     "timeYear": 314,
     "dailyMinutesDown": {
-      "2025-09-02": 38,
       "2025-09-03": 21,
       "2025-09-27": 19,
       "2025-10-22": 95,
@@ -125,13 +120,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 94,
-    "timeDay": 3,
-    "timeWeek": 7,
+    "timeDay": 2,
+    "timeWeek": 6,
     "timeMonth": 7,
-    "timeYear": 97,
-    "dailyMinutesDown": {
-      "2025-09-02": 37
-    }
+    "timeYear": 96,
+    "dailyMinutesDown": {}
   },
   {
     "name": "relay.misskey.gg",
@@ -145,9 +138,9 @@
     "uptimeMonth": "64.80%",
     "uptimeYear": "96.64%",
     "time": 1185,
-    "timeDay": 870,
-    "timeWeek": 1013,
-    "timeMonth": 697,
+    "timeDay": 789,
+    "timeWeek": 982,
+    "timeMonth": 690,
     "timeYear": 1100,
     "dailyMinutesDown": {
       "2025-11-03": 43,

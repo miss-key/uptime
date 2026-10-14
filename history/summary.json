@@ -4,16 +4,16 @@
     "url": "https://misskey.gg",
     "icon": "https://icons.duckduckgo.com/ip3/misskey.gg.ico",
     "slug": "misskey-gg-main",
-    "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "91.89%",
-    "uptimeMonth": "98.13%",
-    "uptimeYear": "99.44%",
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "79.96%",
+    "uptimeWeek": "89.13%",
+    "uptimeMonth": "97.50%",
+    "uptimeYear": "99.39%",
     "time": 991,
-    "timeDay": 649,
-    "timeWeek": 585,
-    "timeMonth": 590,
+    "timeDay": 668,
+    "timeWeek": 597,
+    "timeMonth": 594,
     "timeYear": 667,
     "dailyMinutesDown": {
       "2025-10-22": 96,
@@ -28,7 +28,7 @@
       "2026-03-20": 49,
       "2026-04-30": 88,
       "2026-10-11": 808,
-      "2026-10-14": 10
+      "2026-10-14": 289
     }
   },
   {
@@ -36,16 +36,16 @@
     "url": "https://sss.misskey.gg/sss/",
     "icon": "https://icons.duckduckgo.com/ip3/sss.misskey.gg.ico",
     "slug": "misskey-gg-s3",
-    "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "91.89%",
-    "uptimeMonth": "98.13%",
-    "uptimeYear": "99.48%",
-    "time": 815,
-    "timeDay": 2160,
-    "timeWeek": 1334,
-    "timeMonth": 773,
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "79.99%",
+    "uptimeWeek": "89.13%",
+    "uptimeMonth": "97.50%",
+    "uptimeYear": "99.43%",
+    "time": 816,
+    "timeDay": 1667,
+    "timeWeek": 1269,
+    "timeMonth": 770,
     "timeYear": 589,
     "dailyMinutesDown": {
       "2025-10-22": 95,
@@ -57,7 +57,7 @@
       "2026-03-20": 49,
       "2026-04-23": 93,
       "2026-10-11": 807,
-      "2026-10-14": 10
+      "2026-10-14": 288
     }
   },
   {
@@ -83,16 +83,16 @@
     "url": "https://misskey.gg/api/get-online-users-count",
     "icon": "https://icons.duckduckgo.com/ip3/misskey.gg.ico",
     "slug": "misskey-gg-post-test",
-    "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "91.90%",
-    "uptimeMonth": "98.14%",
-    "uptimeYear": "99.45%",
+    "status": "up",
+    "uptime": "99.46%",
+    "uptimeDay": "80.00%",
+    "uptimeWeek": "89.14%",
+    "uptimeMonth": "97.50%",
+    "uptimeYear": "99.39%",
     "time": 462,
-    "timeDay": 556,
-    "timeWeek": 501,
-    "timeMonth": 457,
+    "timeDay": 474,
+    "timeWeek": 482,
+    "timeMonth": 453,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2025-10-22": 95,
@@ -107,7 +107,7 @@
       "2026-03-20": 49,
       "2026-04-30": 87,
       "2026-10-11": 807,
-      "2026-10-14": 10
+      "2026-10-14": 288
     }
   },
   {
@@ -133,16 +133,16 @@
     "url": "https://relay.misskey.gg/",
     "icon": "https://icons.duckduckgo.com/ip3/relay.misskey.gg.ico",
     "slug": "relay-misskey-gg",
-    "status": "down",
-    "uptime": "98.63%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "92.08%",
-    "uptimeMonth": "98.18%",
-    "uptimeYear": "96.48%",
+    "status": "up",
+    "uptime": "98.61%",
+    "uptimeDay": "80.65%",
+    "uptimeWeek": "89.32%",
+    "uptimeMonth": "97.54%",
+    "uptimeYear": "96.43%",
     "time": 1172,
-    "timeDay": 1587,
-    "timeWeek": 911,
-    "timeMonth": 841,
+    "timeDay": 1230,
+    "timeWeek": 906,
+    "timeMonth": 842,
     "timeYear": 1051,
     "dailyMinutesDown": {
       "2025-11-03": 43,
@@ -170,7 +170,7 @@
       "2026-08-12": 1440,
       "2026-08-11": 234,
       "2026-10-11": 798,
-      "2026-10-14": 0
+      "2026-10-14": 279
     }
   }
 ]
